@@ -32,12 +32,12 @@ body {
   }
 
   .contact{
-    color: black;
+    color: white;
     text-decoration: none;
 }
 
 .dur{
-    float:right ;
+  float:right ;
 }
 
 .skills li{
