@@ -11,7 +11,7 @@ body {
     text-align: center;
   }
 
-.links{
+  .links{
     text-align: center;
   }
 
@@ -24,7 +24,7 @@ body {
     margin-bottom: 10px;
   }
   
-  .section, .links , .skills{
+  .section, .links {
     margin-bottom: 20px;
     background-color: #f9f9f9;
     padding: 20px;
