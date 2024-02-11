@@ -20,7 +20,7 @@ body {
     margin-bottom: 10px;
   }
   
-  .section {
+  .section, .links {
     margin-bottom: 20px;
     background-color: #f9f9f9;
     padding: 20px;
