@@ -67,3 +67,7 @@ img.progpics{
   width: 25px;
   height: 25px;
 }
+
+.skills li:hover, .links li:hover{
+  background-color: #41dd12;
+}
