@@ -464,6 +464,13 @@ svg {
 }
 .card:hover { border-color: var(--accent); transform: translateY(-3px); }
 
+/* A highlighted project that spans the full row. */
+.card-featured { grid-column: 1 / -1; }
+.card-featured > p:not(.date):not(.card-link) { max-width: 75ch; }
+.card-featured .bullets { margin-top: 4px; max-width: 80ch; }
+.card-featured .tags { margin-top: 0; }
+.card-link { font-size: 15px; }
+
 .card p { color: var(--muted); }
 .card p.date { color: var(--accent); }
 .card-sub { color: var(--muted); }
