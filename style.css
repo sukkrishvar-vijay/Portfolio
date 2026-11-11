@@ -272,6 +272,15 @@ svg {
 }
 .btn:hover { border-color: var(--accent); color: var(--accent); transform: translateY(-1px); }
 
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
 .btn-primary {
   border-color: var(--accent);
   background: var(--accent);
