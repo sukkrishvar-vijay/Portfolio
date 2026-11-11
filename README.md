@@ -8,7 +8,7 @@ Personal portfolio website of Sukkrishvar Vijay Santhana Krishnan, covering skil
 
 | Section | Contents |
 | --- | --- |
-| Intro | Short bio, contact buttons (email, LinkedIn, GitHub, phone) and a quick-facts strip |
+| Intro | Short bio, contact buttons (email, LinkedIn, GitHub), location and a quick-facts strip |
 | Skills | Programming languages, tools and operating systems |
 | Internship experience | Associate Consultant and Research Associate roles at SecureITLab |
 | Education | M.S. Computer Science (University of New Haven) and B.Tech (Vellore Institute of Technology) |
